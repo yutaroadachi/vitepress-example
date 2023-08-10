@@ -1,0 +1,6 @@
+# dependencies
+node_modules
+
+# vitepress
+.vitepress/cache
+.vitepress/dist
